@@ -1,0 +1,1 @@
+FROM kubeless/java:1.8
